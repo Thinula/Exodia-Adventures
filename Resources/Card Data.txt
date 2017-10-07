@@ -1,0 +1,22 @@
+Forbidden One/If you have "Right Leg of the Forbidden One", "Left Leg of the Forbidden One", "Right Arm of the Forbidden One" and "Left Arm of the Forbidden One" in addition to this card in your hand, you win the Duel./Monster
+Left Arm/A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power./Monster
+Left Leg/A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power./Monster
+Right Arm/A forbidden right arm sealed by magic. Whosoever breaks this seal will know infinite power./Monster
+Right Leg/A forbidden right leg sealed by magic. Whosoever breaks this seal will know infinite power./Monster
+Sangan/When this card is Normal Summoned, an "Exodia" monster will randomly be added from your Deck to your Hand./Monster
+Accumulated Fortune/If you have less than 5 cards in your hand, draw 2 cards./Spell
+Gift Card/Your opponent gains 3000 Life Points./Spell
+Battle Fader/When this card is Normal Summoned, add a Battle Fader from your Deck to your Hand. Your opponent loses 1000 Life Points./Monster
+Swift Scarecrow/When this card is summoned, increase your Life Points by 1000./Monster
+One Day of Peace/Draw 2 cards./Spell
+Pot of Greed/Draw 2 cards. "I activate the magic card Pot of Greed! It allows me to draw 2 new cards from my deck!"/Spell
+Upstart Goblin/Draw 1 card, then your opponent gains 1000 life points./Spell
+Hope for Escape/Activate only if your opponent's Life Points are at least 1000 higher than yours. Pay 1000 Life Points. Draw 1 card for every 2000 points difference between your Life Points and your opponent's./Spell
+Jar of Greed/Draw 1 card./Spell
+Legacy of Yata-Garasu/Draw 1 card./Spell
+Threatening Roar/Gain 1000 Life Points and inflict 1000 Damage on your opponent's Life Points./Spell
+Waboku/Both players draw 1 card./Spell
+
+
+
+
